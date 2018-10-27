@@ -1,2 +1,2 @@
 # **Acorn-Engine**
-Following along with the Cherno's Hazel Engine
+*Following along with the Cherno's Hazel Engine*
